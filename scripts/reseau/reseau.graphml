@@ -1,0 +1,1078 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Emilien Schultz">
+  <data key="d0">46</data>
+</node>
+<node id="Marie-Alix Molinie-Andlauer">
+  <data key="d0">2</data>
+</node>
+<node id="Nicolas Benvegnu">
+  <data key="d0">3</data>
+</node>
+<node id="S Besle">
+  <data key="d0">1</data>
+</node>
+<node id="Johan Giry">
+  <data key="d0">1</data>
+</node>
+<node id="Renaud Debailly">
+  <data key="d0">1</data>
+</node>
+<node id="Christophe Lavelle">
+  <data key="d0">1</data>
+</node>
+<node id="Patrick Peretti-Watel">
+  <data key="d0">1</data>
+</node>
+<node id="Caroline Alleaume">
+  <data key="d0">1</data>
+</node>
+<node id="Odile Launay">
+  <data key="d0">1</data>
+</node>
+<node id="Jocelyn Raude">
+  <data key="d0">1</data>
+</node>
+<node id="Jeremy Ward">
+  <data key="d0">5</data>
+</node>
+<node id="Pierre Verger">
+  <data key="d0">1</data>
+</node>
+<node id="Daniela Boaventura Bomfim">
+  <data key="d0">3</data>
+</node>
+<node id="Michel Dubois">
+  <data key="d0">1</data>
+</node>
+<node id="Leo Mignot">
+  <data key="d0">6</data>
+</node>
+<node id="Solenne Carof">
+  <data key="d0">1</data>
+</node>
+<node id="Thibaud Pombet">
+  <data key="d0">1</data>
+</node>
+<node id="Pierre Mirambet">
+  <data key="d0">2</data>
+</node>
+<node id="Lola Auroy">
+  <data key="d0">1</data>
+</node>
+<node id="Sylvain Besle">
+  <data key="d0">1</data>
+</node>
+<node id="Maxime Popineau">
+  <data key="d0">2</data>
+</node>
+<node id="Marie-Laure Massot">
+  <data key="d0">2</data>
+</node>
+<node id="Agnes Tricoche">
+  <data key="d0">2</data>
+</node>
+<node id="Arnaud Picandet">
+  <data key="d0">1</data>
+</node>
+<node id="Julien Boelaert">
+  <data key="d0">2</data>
+</node>
+<node id="Etienne Ollion">
+  <data key="d0">2</data>
+</node>
+<node id="Laetitia Atlani-Duault">
+  <data key="d0">3</data>
+</node>
+<node id="Axel Morin">
+  <data key="d0">1</data>
+</node>
+<node id="Annina Claesson">
+  <data key="d0">1</data>
+</node>
+<node id="Arnault Chatelain">
+  <data key="d0">1</data>
+</node>
+<node id="Emma Bonutti D'Agostini">
+  <data key="d0">1</data>
+</node>
+<node id="Julien Mancini">
+  <data key="d0">10</data>
+</node>
+<node id="Jeremy K Ward">
+  <data key="d0">4</data>
+</node>
+<node id="Celine Gabarro">
+  <data key="d0">1</data>
+</node>
+<node id="Sandrine Knobe">
+  <data key="d0">1</data>
+</node>
+<node id="Fabien Aignan">
+  <data key="d0">1</data>
+</node>
+<node id="Martin Breyton">
+  <data key="d0">1</data>
+</node>
+<node id="A. Smith">
+  <data key="d0">1</data>
+</node>
+<node id="Alexandra Rouquette">
+  <data key="d0">6</data>
+</node>
+<node id="J. Mancini">
+  <data key="d0">1</data>
+</node>
+<node id="Seth Holmes">
+  <data key="d0">1</data>
+</node>
+<node id="P Peretti-Watel">
+  <data key="d0">1</data>
+</node>
+<node id="J K Ward">
+  <data key="d0">1</data>
+</node>
+<node id="Rajae Touzani">
+  <data key="d0">6</data>
+</node>
+<node id="Stephanie Vandentorren">
+  <data key="d0">2</data>
+</node>
+<node id="Pierre Arwidson">
+  <data key="d0">2</data>
+</node>
+<node id="Francis Guillemin">
+  <data key="d0">2</data>
+</node>
+<node id="Anne Deborah Bouhnik">
+  <data key="d0">1</data>
+</node>
+<node id="Elodie Dembele">
+  <data key="d0">1</data>
+</node>
+<node id="Lorene Seguin">
+  <data key="d0">1</data>
+</node>
+<node id="Jean-Charles Dufour">
+  <data key="d0">1</data>
+</node>
+<node id="Marie Bannier">
+  <data key="d0">1</data>
+</node>
+<node id="Seth M Holmes">
+  <data key="d0">1</data>
+</node>
+<node id="Dominique Rey">
+  <data key="d0">1</data>
+</node>
+<node id="Anne-Deborah Bouhnik">
+  <data key="d0">1</data>
+</node>
+<node id="Christian Chabannon">
+  <data key="d0">2</data>
+</node>
+<node id="Clemence Martin-Donati">
+  <data key="d0">1</data>
+</node>
+<node id="Simon Guillouet">
+  <data key="d0">1</data>
+</node>
+<node id="Emma Cape">
+  <data key="d0">1</data>
+</node>
+<node id="Guillaume Lachenal">
+  <data key="d0">1</data>
+</node>
+<node id="Emilien Lemaire">
+  <data key="d0">1</data>
+</node>
+<node id="Philippe Schultz">
+  <data key="d0">1</data>
+</node>
+<node id="Sebastien Vergez">
+  <data key="d0">1</data>
+</node>
+<node id="Christian Debry">
+  <data key="d0">1</data>
+</node>
+<node id="Jerome Sarini">
+  <data key="d0">1</data>
+</node>
+<node id="Benjamin Vairel">
+  <data key="d0">1</data>
+</node>
+<node id="Guillaume de Bonnecaze">
+  <data key="d0">1</data>
+</node>
+<node id="Catherine Takeda-Raguin">
+  <data key="d0">1</data>
+</node>
+<node id="Bastien Cabarrou">
+  <data key="d0">1</data>
+</node>
+<node id="Agnes Dupret Bories">
+  <data key="d0">1</data>
+</node>
+<node id="Mariannig Le Bechec">
+  <data key="d0">2</data>
+</node>
+<node id="Celya Gruson-Daniel">
+  <data key="d0">2</data>
+</node>
+<node id="Clemence Lascombes">
+  <data key="d0">2</data>
+</node>
+<node id="Cecile Allaire">
+  <data key="d0">1</data>
+</node>
+<node id="Patrizia Carrieri">
+  <data key="d0">1</data>
+</node>
+<node id="Jean-Benoit Hardouin">
+  <data key="d0">1</data>
+</node>
+<node id="Thomas Denise">
+  <data key="d0">1</data>
+</node>
+<node id="Sophie Divay">
+  <data key="d0">1</data>
+</node>
+<node id="Marie dos Santos">
+  <data key="d0">1</data>
+</node>
+<node id="Cecile Fournier">
+  <data key="d0">1</data>
+</node>
+<node id="Lucile Girard">
+  <data key="d0">1</data>
+</node>
+<node id="Aymeric Luneau">
+  <data key="d0">1</data>
+</node>
+<edge source="Emilien Schultz" target="Marie-Alix Molinie-Andlauer">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Nicolas Benvegnu">
+  <data key="d1">3</data>
+</edge>
+<edge source="Emilien Schultz" target="S Besle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Johan Giry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Renaud Debailly">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Christophe Lavelle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Patrick Peretti-Watel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Caroline Alleaume">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Odile Launay">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Jocelyn Raude">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Jeremy Ward">
+  <data key="d1">5</data>
+</edge>
+<edge source="Emilien Schultz" target="Pierre Verger">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Daniela Boaventura Bomfim">
+  <data key="d1">3</data>
+</edge>
+<edge source="Emilien Schultz" target="Michel Dubois">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Leo Mignot">
+  <data key="d1">6</data>
+</edge>
+<edge source="Emilien Schultz" target="Solenne Carof">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Thibaud Pombet">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Pierre Mirambet">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Lola Auroy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Sylvain Besle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Maxime Popineau">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Marie-Laure Massot">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Agnes Tricoche">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Arnaud Picandet">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Julien Boelaert">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Etienne Ollion">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Laetitia Atlani-Duault">
+  <data key="d1">3</data>
+</edge>
+<edge source="Emilien Schultz" target="Axel Morin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Annina Claesson">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Arnault Chatelain">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Emma Bonutti D'Agostini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Julien Mancini">
+  <data key="d1">10</data>
+</edge>
+<edge source="Emilien Schultz" target="Jeremy K Ward">
+  <data key="d1">4</data>
+</edge>
+<edge source="Emilien Schultz" target="Celine Gabarro">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Sandrine Knobe">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Martin Breyton">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="A. Smith">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Alexandra Rouquette">
+  <data key="d1">6</data>
+</edge>
+<edge source="Emilien Schultz" target="J. Mancini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Seth Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="P Peretti-Watel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="J K Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Rajae Touzani">
+  <data key="d1">6</data>
+</edge>
+<edge source="Emilien Schultz" target="Stephanie Vandentorren">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Pierre Arwidson">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Francis Guillemin">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Anne Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Elodie Dembele">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Lorene Seguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Jean-Charles Dufour">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Marie Bannier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Seth M Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Dominique Rey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Christian Chabannon">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Simon Guillouet">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Emma Cape">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Guillaume Lachenal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Mariannig Le Bechec">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Celya Gruson-Daniel">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Clemence Lascombes">
+  <data key="d1">2</data>
+</edge>
+<edge source="Emilien Schultz" target="Cecile Allaire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Patrizia Carrieri">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Schultz" target="Jean-Benoit Hardouin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Renaud Debailly" target="Christophe Lavelle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Patrick Peretti-Watel" target="Caroline Alleaume">
+  <data key="d1">1</data>
+</edge>
+<edge source="Patrick Peretti-Watel" target="Odile Launay">
+  <data key="d1">1</data>
+</edge>
+<edge source="Patrick Peretti-Watel" target="Jocelyn Raude">
+  <data key="d1">1</data>
+</edge>
+<edge source="Patrick Peretti-Watel" target="Jeremy Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Patrick Peretti-Watel" target="Pierre Verger">
+  <data key="d1">1</data>
+</edge>
+<edge source="Caroline Alleaume" target="Odile Launay">
+  <data key="d1">1</data>
+</edge>
+<edge source="Caroline Alleaume" target="Jocelyn Raude">
+  <data key="d1">1</data>
+</edge>
+<edge source="Caroline Alleaume" target="Jeremy Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Caroline Alleaume" target="Pierre Verger">
+  <data key="d1">1</data>
+</edge>
+<edge source="Odile Launay" target="Jocelyn Raude">
+  <data key="d1">1</data>
+</edge>
+<edge source="Odile Launay" target="Jeremy Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Odile Launay" target="Pierre Verger">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jocelyn Raude" target="Jeremy Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jocelyn Raude" target="Pierre Verger">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy Ward" target="Pierre Verger">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy Ward" target="Laetitia Atlani-Duault">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy Ward" target="Rajae Touzani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy Ward" target="Julien Mancini">
+  <data key="d1">2</data>
+</edge>
+<edge source="Jeremy Ward" target="Leo Mignot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy Ward" target="Daniela Boaventura Bomfim">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy Ward" target="Christian Chabannon">
+  <data key="d1">1</data>
+</edge>
+<edge source="Daniela Boaventura Bomfim" target="Leo Mignot">
+  <data key="d1">2</data>
+</edge>
+<edge source="Daniela Boaventura Bomfim" target="Jeremy K Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Daniela Boaventura Bomfim" target="Christian Chabannon">
+  <data key="d1">2</data>
+</edge>
+<edge source="Daniela Boaventura Bomfim" target="Julien Mancini">
+  <data key="d1">2</data>
+</edge>
+<edge source="Leo Mignot" target="Pierre Mirambet">
+  <data key="d1">1</data>
+</edge>
+<edge source="Leo Mignot" target="Jeremy K Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Leo Mignot" target="Christian Chabannon">
+  <data key="d1">2</data>
+</edge>
+<edge source="Leo Mignot" target="Julien Mancini">
+  <data key="d1">2</data>
+</edge>
+<edge source="Solenne Carof" target="Thibaud Pombet">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lola Auroy" target="Sylvain Besle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Maxime Popineau" target="Marie-Laure Massot">
+  <data key="d1">2</data>
+</edge>
+<edge source="Maxime Popineau" target="Agnes Tricoche">
+  <data key="d1">2</data>
+</edge>
+<edge source="Maxime Popineau" target="Arnaud Picandet">
+  <data key="d1">1</data>
+</edge>
+<edge source="Marie-Laure Massot" target="Agnes Tricoche">
+  <data key="d1">2</data>
+</edge>
+<edge source="Marie-Laure Massot" target="Arnaud Picandet">
+  <data key="d1">1</data>
+</edge>
+<edge source="Agnes Tricoche" target="Arnaud Picandet">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Boelaert" target="Etienne Ollion">
+  <data key="d1">2</data>
+</edge>
+<edge source="Julien Boelaert" target="Axel Morin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Boelaert" target="Annina Claesson">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Boelaert" target="Arnault Chatelain">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Boelaert" target="Emma Bonutti D'Agostini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etienne Ollion" target="Axel Morin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etienne Ollion" target="Annina Claesson">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etienne Ollion" target="Arnault Chatelain">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etienne Ollion" target="Emma Bonutti D'Agostini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Laetitia Atlani-Duault" target="Jeremy K Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Laetitia Atlani-Duault" target="Seth Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Laetitia Atlani-Duault" target="Julien Mancini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Laetitia Atlani-Duault" target="P Peretti-Watel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Laetitia Atlani-Duault" target="J K Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Axel Morin" target="Annina Claesson">
+  <data key="d1">1</data>
+</edge>
+<edge source="Axel Morin" target="Arnault Chatelain">
+  <data key="d1">1</data>
+</edge>
+<edge source="Axel Morin" target="Emma Bonutti D'Agostini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Annina Claesson" target="Arnault Chatelain">
+  <data key="d1">1</data>
+</edge>
+<edge source="Annina Claesson" target="Emma Bonutti D'Agostini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arnault Chatelain" target="Emma Bonutti D'Agostini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Jeremy K Ward">
+  <data key="d1">4</data>
+</edge>
+<edge source="Julien Mancini" target="Seth Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Rajae Touzani">
+  <data key="d1">6</data>
+</edge>
+<edge source="Julien Mancini" target="Stephanie Vandentorren">
+  <data key="d1">2</data>
+</edge>
+<edge source="Julien Mancini" target="Pierre Arwidson">
+  <data key="d1">2</data>
+</edge>
+<edge source="Julien Mancini" target="Francis Guillemin">
+  <data key="d1">2</data>
+</edge>
+<edge source="Julien Mancini" target="Anne Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Alexandra Rouquette">
+  <data key="d1">5</data>
+</edge>
+<edge source="Julien Mancini" target="Elodie Dembele">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Lorene Seguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Jean-Charles Dufour">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Marie Bannier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Seth M Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Dominique Rey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Christian Chabannon">
+  <data key="d1">2</data>
+</edge>
+<edge source="Julien Mancini" target="Cecile Allaire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Patrizia Carrieri">
+  <data key="d1">1</data>
+</edge>
+<edge source="Julien Mancini" target="Jean-Benoit Hardouin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy K Ward" target="Seth Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy K Ward" target="Christian Chabannon">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy K Ward" target="Rajae Touzani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeremy K Ward" target="Alexandra Rouquette">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celine Gabarro" target="Sandrine Knobe">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martin Breyton" target="A. Smith">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martin Breyton" target="Alexandra Rouquette">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martin Breyton" target="J. Mancini">
+  <data key="d1">1</data>
+</edge>
+<edge source="A. Smith" target="Alexandra Rouquette">
+  <data key="d1">1</data>
+</edge>
+<edge source="A. Smith" target="J. Mancini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="J. Mancini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Rajae Touzani">
+  <data key="d1">5</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Stephanie Vandentorren">
+  <data key="d1">2</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Pierre Arwidson">
+  <data key="d1">2</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Francis Guillemin">
+  <data key="d1">2</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Anne Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Elodie Dembele">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Lorene Seguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Jean-Charles Dufour">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Marie Bannier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Seth M Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Dominique Rey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Cecile Allaire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Patrizia Carrieri">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alexandra Rouquette" target="Jean-Benoit Hardouin">
+  <data key="d1">1</data>
+</edge>
+<edge source="P Peretti-Watel" target="J K Ward">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Stephanie Vandentorren">
+  <data key="d1">2</data>
+</edge>
+<edge source="Rajae Touzani" target="Pierre Arwidson">
+  <data key="d1">2</data>
+</edge>
+<edge source="Rajae Touzani" target="Francis Guillemin">
+  <data key="d1">2</data>
+</edge>
+<edge source="Rajae Touzani" target="Anne Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Elodie Dembele">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Lorene Seguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Jean-Charles Dufour">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Marie Bannier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Seth M Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Dominique Rey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Cecile Allaire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Patrizia Carrieri">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rajae Touzani" target="Jean-Benoit Hardouin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Stephanie Vandentorren" target="Pierre Arwidson">
+  <data key="d1">2</data>
+</edge>
+<edge source="Stephanie Vandentorren" target="Francis Guillemin">
+  <data key="d1">2</data>
+</edge>
+<edge source="Stephanie Vandentorren" target="Anne Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Stephanie Vandentorren" target="Seth M Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Stephanie Vandentorren" target="Dominique Rey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Stephanie Vandentorren" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pierre Arwidson" target="Francis Guillemin">
+  <data key="d1">2</data>
+</edge>
+<edge source="Pierre Arwidson" target="Anne Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pierre Arwidson" target="Seth M Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pierre Arwidson" target="Dominique Rey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pierre Arwidson" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Francis Guillemin" target="Anne Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Francis Guillemin" target="Seth M Holmes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Francis Guillemin" target="Dominique Rey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Francis Guillemin" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Elodie Dembele" target="Lorene Seguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Elodie Dembele" target="Jean-Charles Dufour">
+  <data key="d1">1</data>
+</edge>
+<edge source="Elodie Dembele" target="Marie Bannier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lorene Seguin" target="Jean-Charles Dufour">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lorene Seguin" target="Marie Bannier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jean-Charles Dufour" target="Marie Bannier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Seth M Holmes" target="Dominique Rey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Seth M Holmes" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dominique Rey" target="Anne-Deborah Bouhnik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Simon Guillouet" target="Emma Cape">
+  <data key="d1">1</data>
+</edge>
+<edge source="Simon Guillouet" target="Guillaume Lachenal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emma Cape" target="Guillaume Lachenal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Philippe Schultz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Sebastien Vergez">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Christian Debry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Jerome Sarini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Benjamin Vairel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Guillaume de Bonnecaze">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Catherine Takeda-Raguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Bastien Cabarrou">
+  <data key="d1">1</data>
+</edge>
+<edge source="Emilien Lemaire" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Philippe Schultz" target="Sebastien Vergez">
+  <data key="d1">1</data>
+</edge>
+<edge source="Philippe Schultz" target="Christian Debry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Philippe Schultz" target="Jerome Sarini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Philippe Schultz" target="Benjamin Vairel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Philippe Schultz" target="Guillaume de Bonnecaze">
+  <data key="d1">1</data>
+</edge>
+<edge source="Philippe Schultz" target="Catherine Takeda-Raguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Philippe Schultz" target="Bastien Cabarrou">
+  <data key="d1">1</data>
+</edge>
+<edge source="Philippe Schultz" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sebastien Vergez" target="Christian Debry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sebastien Vergez" target="Jerome Sarini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sebastien Vergez" target="Benjamin Vairel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sebastien Vergez" target="Guillaume de Bonnecaze">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sebastien Vergez" target="Catherine Takeda-Raguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sebastien Vergez" target="Bastien Cabarrou">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sebastien Vergez" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Christian Debry" target="Jerome Sarini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Christian Debry" target="Benjamin Vairel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Christian Debry" target="Guillaume de Bonnecaze">
+  <data key="d1">1</data>
+</edge>
+<edge source="Christian Debry" target="Catherine Takeda-Raguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Christian Debry" target="Bastien Cabarrou">
+  <data key="d1">1</data>
+</edge>
+<edge source="Christian Debry" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jerome Sarini" target="Benjamin Vairel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jerome Sarini" target="Guillaume de Bonnecaze">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jerome Sarini" target="Catherine Takeda-Raguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jerome Sarini" target="Bastien Cabarrou">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jerome Sarini" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Benjamin Vairel" target="Guillaume de Bonnecaze">
+  <data key="d1">1</data>
+</edge>
+<edge source="Benjamin Vairel" target="Catherine Takeda-Raguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Benjamin Vairel" target="Bastien Cabarrou">
+  <data key="d1">1</data>
+</edge>
+<edge source="Benjamin Vairel" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guillaume de Bonnecaze" target="Catherine Takeda-Raguin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guillaume de Bonnecaze" target="Bastien Cabarrou">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guillaume de Bonnecaze" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Catherine Takeda-Raguin" target="Bastien Cabarrou">
+  <data key="d1">1</data>
+</edge>
+<edge source="Catherine Takeda-Raguin" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bastien Cabarrou" target="Agnes Dupret Bories">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mariannig Le Bechec" target="Celya Gruson-Daniel">
+  <data key="d1">2</data>
+</edge>
+<edge source="Mariannig Le Bechec" target="Clemence Lascombes">
+  <data key="d1">2</data>
+</edge>
+<edge source="Celya Gruson-Daniel" target="Clemence Lascombes">
+  <data key="d1">2</data>
+</edge>
+<edge source="Cecile Allaire" target="Patrizia Carrieri">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cecile Allaire" target="Jean-Benoit Hardouin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Patrizia Carrieri" target="Jean-Benoit Hardouin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thomas Denise" target="Sophie Divay">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thomas Denise" target="Marie dos Santos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thomas Denise" target="Cecile Fournier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thomas Denise" target="Lucile Girard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thomas Denise" target="Aymeric Luneau">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sophie Divay" target="Marie dos Santos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sophie Divay" target="Cecile Fournier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sophie Divay" target="Lucile Girard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sophie Divay" target="Aymeric Luneau">
+  <data key="d1">1</data>
+</edge>
+<edge source="Marie dos Santos" target="Cecile Fournier">
+  <data key="d1">1</data>
+</edge>
+<edge source="Marie dos Santos" target="Lucile Girard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Marie dos Santos" target="Aymeric Luneau">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cecile Fournier" target="Lucile Girard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cecile Fournier" target="Aymeric Luneau">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lucile Girard" target="Aymeric Luneau">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
