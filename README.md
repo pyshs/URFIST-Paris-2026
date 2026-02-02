@@ -2,7 +2,9 @@
 
 ## Session 1 - Introduction à Python pour les SHS - 19/01/2026
 
-### Données
+## Session 2 - Traiter des données textuelles avec Python - 02/02/2026
+
+## Données
 
 [Data CREST](https://www.dropbox.com/scl/fi/j2ldst7twohuyaonot6op/hal_crest_data.json?rlkey=oqr73uwp8vcv0awawg6c4v0xk&st=6afb9rfm&dl=0)
 
